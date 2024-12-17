@@ -1,0 +1,11 @@
+.main{
+    min-width: 400px;
+    width: 80%;
+    margin: auto;
+    border: solid black 2px;
+    padding: 30px;
+    background-color: white;
+}
+body{
+    background: #000;
+}
